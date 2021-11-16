@@ -69,7 +69,7 @@ On line 1 in the document editor, type `status: in-progress` as shown in the fol
 
 Scroll to the bottom of the registration document page and click `Propose New File` as shown in the following image:
 
-![Propose New File Screenshot](https://github.com/ModernAppsNinja/course_repo_template_ct8279/new/main/static/admin/userdata/registered_members)
+![Propose New File Screenshot](https://modernapps.ninja/course_repo_template_ct8279/admin/assets/images/propose_new_file.png)
 
 After you click `Propose New File`, your browser will be redirected to the `Comparing Changes` page with all the configuration all setup so all you sould need to do is click `Create Pull Request` --- but before you click, please review the other details shown on the comparing changes and observe that the file you created and the lines added are shown, so you can easily review and verify your proposed changes before submitting.
 
