@@ -18,12 +18,13 @@
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="about-this-course">About this Course&lt;/h2>
+&lt;p>&lt;strong>Important Notice: The Enrollment, testing and digital badge features will be removed on Friday February 18th, 2022. Please ensure you have completed any test and digital badge requests prior to this date. The course materials will still be available.&lt;/strong>&lt;/p>
 &lt;p>This course provides a technical introduction to vSphere with Tanzu.&lt;/p>
-&lt;p>If you complete all steps in this course, you can request a certificate of completion, by following the instructions provided at the end of the course. &lt;/p>
+&lt;p>If you complete all steps in this course, you can request a certificate of completion, by following the instructions provided at the end of the course.&lt;/p>
 &lt;p>This course is a community effort, to be able to keep up the material, we really need your help to report issues, suggest improvements, or help with the many volunteer opportunities available to support the community.&lt;/p>
 &lt;h2 id="prerequisites">Prerequisites&lt;/h2>
 &lt;p>Please complete the &lt;a href="https://modernapps.ninja/course/vspheretanzu101_vt7301/">vSphere with Tanzu 101&lt;/a> course
-prior to taking the vSphere with Tanzu 201 course. &lt;/p>
+prior to taking the vSphere with Tanzu 201 course.&lt;/p>
 &lt;h2 id="course-input--feedback">Course Input &amp;amp; Feedback&lt;/h2>
 &lt;p>Your feedback for this course is critical to help ensure we can improve course content and quality and is greatly appreciated!&lt;/p>
 &lt;p>If you see any problems or suggestions for improvement in this course, the community is very grateful for your help. The simplest way to provide your input is to click the Edit this page link on the right nav bar on each page on this site, and it will open a page to a simple web text editor where you can easily make any update or suggested input you have and then click a button to submit your update. If the course administrators approve your update, the commit and each line you update will be shown on your public Github profile and add value to your professional portfolio, and you will be listed as a contributor to the site.&lt;/p>
@@ -33,6 +34,7 @@ prior to taking the vSphere with Tanzu 201 course. &lt;/p>
 &lt;p>We make a strong effort to keep the content in this course as current as possible, however the Tanzu Portfolio is rapidly growing and there may be times where this course may not include the newest updates. Always refer to the official &lt;a href="https://tanzu.vmware.com/">VMware Tanzu Portfiolio Website&lt;/a> and your VMware account team for the latest details on products covered in this course.&lt;/p>
 &lt;p>As part of our effort to keep this course as up-to-date as possible, this course is on a continuous update lifecycle. This means that the course can be updated at any time, and new content and requirements may be added while you are taking your course. We will make effort to notify members in advance of any significant updates are made to minimize any unexpected changes to course completion requirements.&lt;/p>
 &lt;h2 id="enrollment-tests--completion-badge">Enrollment, Tests &amp;amp; Completion Badge&lt;/h2>
+&lt;p>&lt;strong>Important Notice: The Enrollment, testing and digital badge features will be removed on Friday February 18th, 2022. Please ensure you have completed any test and digital badge requests prior to this date. The course materials will still be available.&lt;/strong>&lt;/p>
 &lt;p>All content in this course is publicly viewable, no registration or enrollment is required to view course materials.&lt;/p>
 &lt;p>However, if you would like to take course tests and earn a digital badge certificate of course completion, you will need to register with the community and enroll in the course.&lt;/p>
 &lt;p>ModernApps Learning uses GitOps methods for course enrollment, testing and badging, to help teach and validate important git and devops skills for course participants. Instructions for each step is provided within this course; however if you are new to Git or want to learn more about the ModernApps Learning by VMware Tanzu program, we recommend taking the &lt;a href="https://modernapps.ninja/modernappsskills101_ms4043/docs/">ModernApps Skills 101 Course&lt;/a> as it provides instructions on joining the community, course enrollment, test taking, and how to request a digital badge when you complete a course.&lt;/p>
