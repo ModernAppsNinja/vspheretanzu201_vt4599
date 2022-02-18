@@ -63,12 +63,41 @@ Please right click the following link to the test answer response sheet and sele
 
 ### Section 3 Test Questions
 
-#### **Question1:** Please select the most correct statement from the options below:  <!-- omit in toc -->
+
+#### **Question1:** True or False: Cloud Native Storage is available natively in vSphere 7 and it allows higher levels of visibility for Kubernetes Persistent Volumes for the IT Administrators.  <!-- omit in toc -->
+
+**On your answer sheet, enter 'a' for true, and 'b' for false.**
 
 ```yml
 Answers:
-  a: Use the Tanzu Kubernetes Grid Installer to install TKG on vSphere 7
-  b: TKG Service is embedded in vSphere 7 with Tanzu
+  a: True
+  b: False
+```
+
+#### **Question2:** What information is provided by the command 'kubectl get services'?  <!-- omit in toc -->
+
+**Please select 3 choices:**
+
+```yml
+Answers:
+  a: Cluster-IP 
+  b: External-IP 
+  c: Volume 
+  d: Capacity 
+  e: User
+  f: Age
+```
+
+#### **Question3:** Which of the following Kubernetes object types is required to support stateful applications?  <!-- omit in toc -->
+
+**Please select the best option:**
+
+```yml
+Answers:
+  a: StatefulSet
+  b: PersistentVolume
+  c: ConfigMap
+  d: Service
 ```
 
 ##### This concludes the section 3 test.
