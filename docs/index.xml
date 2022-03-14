@@ -1,83 +1,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>vSphere with Tanzu 201 – vSphere with Tanzu 201</title><link>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/</link><description>Recent content on vSphere with Tanzu 201</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Course Introduction</title><link>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/courseintroduction/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/courseintroduction/</guid><description>
-&lt;ul>
-&lt;li>&lt;a href="#about-this-course">About this Course&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#prerequisites">Prerequisites&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#course-input--feedback">Course Input &amp;amp; Feedback&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#content-accuracy-and-refresh-cycle">Content Accuracy and Refresh Cycle&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#enrollment-tests--completion-badge">Enrollment, Tests &amp;amp; Completion Badge&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="#enroll-for-this-course">Enroll for this course&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="#step-1---open-the-new-course-enrollment-document-link">Step 1 - Open the new course enrollment document link&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#step-2---name-your-file">Step 2 - Name your file&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#step-3---add-a-line-to-your-file">Step 3 - Add a line to your file&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#step-4---submit-your-enrollment-document">Step 4 - Submit your enrollment document&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
 &lt;h2 id="about-this-course">About this Course&lt;/h2>
 &lt;p>&lt;strong>Important Notice: The Enrollment, testing and digital badge features will be removed on Friday February 18th, 2022. Please ensure you have completed any test and digital badge requests prior to this date. The course materials will still be available.&lt;/strong>&lt;/p>
 &lt;p>This course provides a technical introduction to vSphere with Tanzu.&lt;/p>
-&lt;p>If you complete all steps in this course, you can request a certificate of completion, by following the instructions provided at the end of the course.&lt;/p>
 &lt;p>This course is a community effort, to be able to keep up the material, we really need your help to report issues, suggest improvements, or help with the many volunteer opportunities available to support the community.&lt;/p>
+&lt;p>&lt;strong>Please Note:&lt;/strong> This course no longer provides enrollment, testing, badging or any interactive features. If you see any references to these past features, please disregard.&lt;/p>
 &lt;h2 id="prerequisites">Prerequisites&lt;/h2>
 &lt;p>Please complete the &lt;a href="https://modernapps.ninja/course/vspheretanzu101_vt7301/">vSphere with Tanzu 101&lt;/a> course
 prior to taking the vSphere with Tanzu 201 course.&lt;/p>
-&lt;h2 id="course-input--feedback">Course Input &amp;amp; Feedback&lt;/h2>
-&lt;p>Your feedback for this course is critical to help ensure we can improve course content and quality and is greatly appreciated!&lt;/p>
-&lt;p>If you see any problems or suggestions for improvement in this course, the community is very grateful for your help. The simplest way to provide your input is to click the Edit this page link on the right nav bar on each page on this site, and it will open a page to a simple web text editor where you can easily make any update or suggested input you have and then click a button to submit your update. If the course administrators approve your update, the commit and each line you update will be shown on your public Github profile and add value to your professional portfolio, and you will be listed as a contributor to the site.&lt;/p>
-&lt;p>If you would prefer to provide feedback through a feedback form, all feedback is crucial to helping the community provide the best content we can. To submit feedback, general questions or support requests, please click the “Open Issue Ticket” link found on the right navigation bar on each page of this course site.&lt;/p>
-&lt;p>The community thanks you for your feedback and contributions!&lt;/p>
 &lt;h2 id="content-accuracy-and-refresh-cycle">Content Accuracy and Refresh Cycle&lt;/h2>
 &lt;p>We make a strong effort to keep the content in this course as current as possible, however the Tanzu Portfolio is rapidly growing and there may be times where this course may not include the newest updates. Always refer to the official &lt;a href="https://tanzu.vmware.com/">VMware Tanzu Portfiolio Website&lt;/a> and your VMware account team for the latest details on products covered in this course.&lt;/p>
 &lt;p>As part of our effort to keep this course as up-to-date as possible, this course is on a continuous update lifecycle. This means that the course can be updated at any time, and new content and requirements may be added while you are taking your course. We will make effort to notify members in advance of any significant updates are made to minimize any unexpected changes to course completion requirements.&lt;/p>
-&lt;h2 id="enrollment-tests--completion-badge">Enrollment, Tests &amp;amp; Completion Badge&lt;/h2>
-&lt;p>&lt;strong>Important Notice: The Enrollment, testing and digital badge features will be removed on Friday February 18th, 2022. Please ensure you have completed any test and digital badge requests prior to this date. The course materials will still be available.&lt;/strong>&lt;/p>
-&lt;p>All content in this course is publicly viewable, no registration or enrollment is required to view course materials.&lt;/p>
-&lt;p>However, if you would like to take course tests and earn a digital badge certificate of course completion, you will need to register with the community and enroll in the course.&lt;/p>
-&lt;p>ModernApps Learning uses GitOps methods for course enrollment, testing and badging, to help teach and validate important git and devops skills for course participants. Instructions for each step is provided within this course; however if you are new to Git or want to learn more about the ModernApps Learning by VMware Tanzu program, we recommend taking the &lt;a href="https://modernapps.ninja/modernappsskills101_ms4043/docs/">ModernApps Skills 101 Course&lt;/a> as it provides instructions on joining the community, course enrollment, test taking, and how to request a digital badge when you complete a course.&lt;/p>
-&lt;p>Below please find detailed instructions for Enrolling for this course:&lt;/p>
-&lt;h3 id="enroll-for-this-course">Enroll for this course&lt;/h3>
-&lt;p>You must first be a member of the community before you can enroll for this course. Ensure that you have fully completed the community member enrollment process before proceeding.&lt;/p>
-&lt;p>To enroll for this course, follow the detailed instructions below to post a simple file with your github username to this repository. This process, while simple to follow, helps participants to gain experience and comfort, and validate their knowledge with foundational devops tools and process.&lt;/p>
-&lt;p>Posting a file to enroll uses the git pull request process, which is one of the most important and common foundational skills for participating in devops, cloud native, and infrastructure modernization initiatives.&lt;/p>
-&lt;p>This process will also show on your public github profile that you have made a commit, the course also provides several additional exercises throughout where you will make commits to gain additional git experience while enhancing your github and professional profiles.&lt;/p>
-&lt;h4 id="step-1---open-the-new-course-enrollment-document-link">Step 1 - Open the new course enrollment document link&lt;/h4>
-&lt;p>&lt;strong>The Course Enrollment Process Requires that you have a github account, and that you are signed in using the github account you want to be enrolled for the course. If you attempt to enroll a different account than the account you are signed in as, the process will fail.&lt;/strong>&lt;/p>
-&lt;p>Please right click the following link and select the option to open it in a new browser tab, so you can keep this instruction page open in the current tab to guide you through the process.&lt;/p>
-&lt;p>&lt;a href="https://github.com/ModernAppsNinja/vspheretanzu201_vt4599/tree/main/static/admin/userdata/registered_members">Right Click Here and select the option to open link in new tab&lt;/a> and click on &lt;code>Add File &amp;gt; Create new file&lt;/code>&lt;/p>
-&lt;h4 id="step-2---name-your-file">Step 2 - Name your file&lt;/h4>
-&lt;p>Note the page displays a message that &lt;code>You’re making changes in a project you don’t have write access to. Submitting a change will write it to a new branch in your fork YOUR_GITHUB_USERNAME/COURSE_REPOSITORY_NAME, so you can send a pull request.&lt;/code>&lt;/p>
-&lt;p>The pull request process works by submitting a copy of your new or updated file to the repository, which will only be applied to the course repository if a course administrator approves the request. Because you do not have write access to the repository, github will create a special copy called a &lt;code>fork&lt;/code> of the course repository within your github account with your new or updated files, and use your copy to save the updates you&amp;rsquo;re submitting to the official course repository as shown in the following steps.&lt;/p>
-&lt;p>In your browser tab to the new enrollment document, above the document editor in the file name field, type in the name of the file in the format &lt;code>your_github_username.yml&lt;/code>, replacing the value &lt;strong>your_github_username&lt;/strong> with the username for your github account.&lt;/p>
-&lt;p>&lt;strong>Please be sure to include the .yml file extension in your filename. One of the most common mistakes people make in this process is not including the .yml file extension in the filename, and if this is not included, the automation that processes enrollement will not be triggered and your enrollment request will fail.&lt;/strong>&lt;/p>
-&lt;p>The following screenshot shows an example of this step using the github username &lt;code>Oni-no-Hanzo&lt;/code>&lt;/p>
-&lt;p>&lt;strong>Note:&lt;/strong> If needed, you can verify your github username by clicking on your github profile menu, which can be found on the upper right hand corner on any github page if you are signed in.&lt;/p>
-&lt;p>&lt;img src="https://modernapps.ninja/course_repo_template_ct8279/admin/assets/images/course_registration_file_naming.png" alt="Screenshot of File Naming">&lt;/p>
-&lt;h4 id="step-3---add-a-line-to-your-file">Step 3 - Add a line to your file&lt;/h4>
-&lt;p>On line 1 in the document editor, type &lt;code>status: in-progress&lt;/code> as shown in the following screenshot:&lt;/p>
-&lt;p>&lt;img src="https://modernapps.ninja/course_repo_template_ct8279/admin/assets/images/course_registration_file_editing.png" alt="Screenshot of File Editing">&lt;/p>
-&lt;h4 id="step-4---submit-your-enrollment-document">Step 4 - Submit your enrollment document&lt;/h4>
-&lt;p>Scroll to the bottom of the enrollment document page and click &lt;code>Propose New File&lt;/code> as shown in the following image:&lt;/p>
-&lt;p>&lt;img src="https://github.com/ModernAppsNinja/course_repo_template_ct8279/blob/main/static/admin/assets/images/propose_changes.png" alt="Propose New File Screenshot">&lt;/p>
-&lt;p>After you click &lt;code>Propose New File&lt;/code>, your browser will be redirected to the &lt;code>Comparing Changes&lt;/code> page with all the configuration all setup so all you sould need to do is click &lt;code>Create Pull Request&lt;/code> &amp;mdash; but before you click, please review the other details shown on the comparing changes and observe that the file you created and the lines added are shown, so you can easily review and verify your proposed changes before submitting.&lt;/p>
-&lt;p>After you click &lt;code>Create pull request&lt;/code>, an automated GitHub Action worklow will initiate that will do the following actions:&lt;/p>
-&lt;ul>
-&lt;li>verify that your github account is a member of the modernappsninja organization&lt;/li>
-&lt;li>verify the filename of the submitted document matches the github username of the logged-in user that submitted the pull request&lt;/li>
-&lt;li>if the above items are successfully validated:
-&lt;ul>
-&lt;li>add the course record page to the members profile repository to display course progress and completion records&lt;/li>
-&lt;li>add a message to the pull request ticket with the URL for the members course record page&lt;/li>
-&lt;li>trigger github to send an email from github to the email address for the github user account that submitted the pull request including the message from the previous step&lt;/li>
-&lt;li>approve and merge the new document you submitted into the registered members directory for this course&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>This completes the course enrollment process, once you have completed the above steps, you can proceed through the course and participate in any steps such as tests and completion certificates that require course enrollment.&lt;/p>
-&lt;p>Thank you!&lt;/p>
 &lt;p>&lt;strong>This Section is Complete. Please use the Navigation Bar to Proceed to the Next Section&lt;/strong>&lt;/p></description></item><item><title>Docs: Introduction to vSphere with Tanzu</title><link>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/tanzuintrovision/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/tanzuintrovision/</guid><description>
 &lt;ul>
 &lt;li>&lt;a href="#cloud-native-infrastructure-requirements">Cloud Native Infrastructure Requirements&lt;/a>&lt;/li>
@@ -151,17 +83,6 @@ prior to taking the vSphere with Tanzu 201 course.&lt;/p>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;a href="#managing-vsphere-lab">Managing vSphere Lab&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#section-2-test">Section 2 Test&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="#instructions">Instructions&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="#full-test-instructions">Full Test Instructions&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#test-answer-response-sheet">Test Answer Response Sheet&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="#section-2-test-questions">Section 2 Test Questions&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
 &lt;/ul>
 &lt;h2 id="supervisor-cluster-components">Supervisor Cluster Components&lt;/h2>
 &lt;p>VMware Tanzu Kubernetes Grid Service for vSphere is a Kubernetes experience that is tightly integrated with vSphere 7.0. Tanzu Kubernetes Grid Service runs on Supervisor Clusters in vSphere with Tanzu to create Kubernetes conformant clusters that have been optimized for vSphere.&lt;/p>
@@ -182,40 +103,7 @@ prior to taking the vSphere with Tanzu 201 course.&lt;/p>
 &lt;/div>
 &lt;h2 id="managing-vsphere-lab">Managing vSphere Lab&lt;/h2>
 &lt;p>Please complete &amp;ldquo;Module 2 - Managing vSphere with Tanzu&amp;rdquo; in the Hands-on-lab &lt;a href="https://labs.hol.vmware.com/HOL/catalogs/lab/10402">HOL-2213 vSphere with Tanzu&lt;/a>&lt;/p>
-&lt;h2 id="section-2-test">Section 2 Test&lt;/h2>
-&lt;p>All Modernapps Ninja learning content is publicly accessible and available openly, however a free membership is required to take tests and recieve a certificate of completion for the course. You must first &lt;a href="https://modernapps.ninja/about/membership/">join the community&lt;/a> and register for this course per the instructions in the course introduction section before attempting to submit a test.&lt;/p>
-&lt;p>Ninja tests use devops tools and processes so the testing system itself provides both experience with and validation of foundational devops skills.&lt;/p>
-&lt;details>&lt;summary>Expand this section to see a video overview of test taking instructions.&lt;/summary>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/J_nV5YPypqs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-&lt;/details>
-&lt;h3 id="instructions">Instructions&lt;/h3>
-&lt;p>This test uses automated grading, you must follow the instructions exactly to ensure automated grading will complete successfully.&lt;/p>
-&lt;p>To complete the test you must review the questions on this page, and fill in your answers on a seperate answer sheet provided below. We recommend opening the answer sheet for the test in a seperate browser tab so you can fill in the answers as you proceed through the questions.&lt;/p>
-&lt;p>Every question in this test is titled &amp;ldquo;Question&amp;rdquo; followed by its order, for example Question1, Question2 etc&amp;hellip;&lt;/p>
-&lt;p>All questions will provide a list of possible answers. Each possible answer is represented by a lowercase letter, the first response is option &amp;ldquo;a&amp;rdquo;, the second is option &amp;ldquo;b&amp;rdquo; and so on, as shown in the example questions below.&lt;/p>
-&lt;p>The Answer sheet will open in Github&amp;rsquo;s web-based editor, similar to the image shown below:&lt;/p>
-&lt;p>&lt;img src="https://modernappsninja.github.io/vspheretanzu201_vt4599/vspheretanzu201_vt4599/admin/assets/images/blank_test_screen_example.png" alt="Example Test Response Sheet">&lt;/p>
-&lt;p>After you fill in your answer sheet, you will submit your responses as a git &lt;a href="https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests">pull request&lt;/a> following the instructions provided below, which will trigger a workflow that will grade your responses and provide your test grading sheet.&lt;/p>
-&lt;h4 id="full-test-instructions">Full Test Instructions&lt;/h4>
-&lt;p>If this is the first test you have taken, or if you have an questions at all about how to propely complete the test answer sheet or the test grading service, please review the full &lt;a href="https://modernapps.ninja/course_repo_template_ct8279/docs/reference/testinstructions/">How to Take a Test Instructions&lt;/a>.&lt;/p>
-&lt;p>It is important that you follow the instructions carefully to ensure the automated grading process completes successfully.&lt;/p>
-&lt;h4 id="test-answer-response-sheet">Test Answer Response Sheet&lt;/h4>
-&lt;p>Please right click the following link to the test answer response sheet and select to open it in a new tab. The questions for this test will be provided below in this page, but you will need to enter your responses in the answer response sheet.&lt;/p>
-&lt;p>&lt;a href="https://github.com/modernappsninja/vspheretanzu201_vt4599/edit/main/static/admin/userdata/tests/test2.yml">test2 Answer Response Sheet&lt;/a>&lt;/p>
-&lt;h3 id="section-2-test-questions">Section 2 Test Questions&lt;/h3>
-&lt;h4 id="question1-vsphere-with-tanzu-services-include-----omit-in-toc---">&lt;strong>Question1:&lt;/strong> vSphere with Tanzu Services include: &lt;!-- omit in toc -->&lt;/h4>
-&lt;p>&lt;strong>Please select 5 choices:&lt;/strong>&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yml" data-lang="yml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">Answers&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">a&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">Registry Service&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">b&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">Load Balancer Service&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">c&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">Storage Service&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">d&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">Network Service&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">e&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">Tanzu Kubernetes Grid Service&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">f&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">Cluster Service&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">g&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">vSphere Pod Service&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;strong>Section Complete. Please use the navigation bar to proceed to the next page&lt;/strong>&lt;/p></description></item><item><title>Docs: vSphere 7 With Tanzu Technical Overview</title><link>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/vspheretanzutechoverview/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/vspheretanzutechoverview/</guid><description>
+&lt;p>&lt;strong>Section Complete. Please use the navigation bar to proceed to the next page&lt;/strong>&lt;/p></description></item><item><title>Docs: vSphere 7 With Tanzu Technical Overview</title><link>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/vspheretanzutechoverview/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/vspheretanzutechoverview/</guid><description>
 &lt;h2 id="tanzu-kubernetes-clusters">Tanzu Kubernetes Clusters&lt;/h2>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/288phdacqHI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
@@ -280,29 +168,4 @@ prior to taking the vSphere with Tanzu 201 course.&lt;/p>
 &lt;/br>
 &lt;p>&lt;strong>Section Complete. Please use the navigation bar to proceed to the next page&lt;/strong>&lt;/p></description></item><item><title>Docs: Course Completion and Badge</title><link>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/coursecompletion/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/coursecompletion/</guid><description>
 &lt;p>&lt;strong>Important Notice: The Enrollment, testing and digital badge features will be removed on Friday February 18th, 2022. Please ensure you have completed any test and digital badge requests prior to this date. The course materials will still be available.&lt;/strong>&lt;/p>
-&lt;p>If you have completed all tests in the course and received over 70% correct responses, you can make an automated request to receive a certificate of completion for this course.&lt;/p>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/_XgvpPML0FQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-&lt;p>To request your certificate of completion:&lt;/p>
-&lt;ol>
-&lt;li>In a seperate browser tab navigate to: &lt;a href="https://github.com/ModernAppsNinja/vspheretanzu201_vt4599/tree/main/static/admin/userdata/certs_awarded">https://github.com/ModernAppsNinja/vspheretanzu201_vt4599/tree/main/static/admin/userdata/certs_awarded&lt;/a>&lt;/li>
-&lt;li>Click on the &lt;code>Add file&lt;/code> button to add a new file&lt;/li>
-&lt;li>Name the file using your own github username in the format &lt;code>yourgithubusername.yml&lt;/code>&lt;/li>
-&lt;li>In the body of the file type: &lt;code>Status: Completed&lt;/code>&lt;/li>
-&lt;li>Click on &lt;code>Propose new file&lt;/code> and then &lt;code>Create pull request&lt;/code> to submit your new file.&lt;/li>
-&lt;/ol>
-&lt;p>When you submit your new file as described in the steps above (also called making a pull request) it will trigger an automated github action workflow that will:&lt;/p>
-&lt;ul>
-&lt;li>Compare the total quantity of tests in the course with the quantity of tests you have completed to ensure you have completed all required tests for the course&lt;/li>
-&lt;li>Tabulate the total quantity of all test questions from all tests&lt;/li>
-&lt;li>Compare the quantity of questions you have answered correctly against the total quantity of questions for all tests to ensure you have attained a minimum of 70% correct answers&lt;/li>
-&lt;li>Post grade report and updated course record card to your member repository&lt;/li>
-&lt;li>Append a message to the pull request to notify the requesting user the course grading is complete, the result, and links to the updated grade report and course record card.
-&lt;ul>
-&lt;li>The requesting members github account will be mentioned in the posted message, which will trigger a github notification to the requestors github account and associated email address.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>In the event that a user requests a certificate and does not have the minimum required grade to pass, a grade report will be provided that will include details on the percent of correct answers for each test in the course, highlighting which test(s) may need to be retaken to achieve a passing grade. Members can then retake any tests necesarry to increase their grade, and then repeat the above process again to request that the certificate service run again.&lt;/p>
-&lt;p>If you encounter any problems with testing or with the certificate process, please open an issue ticket on this course.&lt;/p></description></item></channel></rss>
+&lt;p>&lt;strong>Congratulations! You have completed the course!&lt;/strong>&lt;/p></description></item></channel></rss>
